@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769030695164",
+    "project_id": "simple-notification-d5e82",
+    "storage_bucket": "simple-notification-d5e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769030695164:android:79558ff536ec5e6b130f79",
+        "android_client_info": {
+          "package_name": "com.bootcampeveriskotlin.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769030695164-77mv3st019n9tredgjum70poh4lumoh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYOCv_nM3KSCuBea4BpqdZIIi4Xt3UohY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769030695164-77mv3st019n9tredgjum70poh4lumoh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
